@@ -1,4 +1,4 @@
-// Create a new execution context for our library to be "safe" on the global window
+// Create a new execution context for our library
 (function(global, $) {
 
   var Greetr = function(firstName, lastName, language) {

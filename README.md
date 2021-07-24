@@ -2,8 +2,6 @@
 
 A JS library that generates greetings. Based on the "JavaScript: Understanding the Weird Parts" course.
 
-<br>
-
 ## Requirements
 
 - When given a first name, last name, and optional language, it should generate formal and informal greetings.
